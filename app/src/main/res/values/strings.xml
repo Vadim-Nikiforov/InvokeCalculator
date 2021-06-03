@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InvokeCalculator</string>
+    <string name="defaultUrl">https://geekbrains.ru</string>
+    <string name="go">Точно хочу</string>
+    <string name="go_go">Хочу !</string>
+    <string name="do_you_want">Хочешь Калькулятор ?</string>
+</resources>
